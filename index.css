@@ -1,0 +1,324 @@
+header {
+   margin-left: 30%;
+}
+
+
+
+#hb1 {
+   margin-left: 300px; 
+}
+
+
+.baic {
+   margin-top: 200px; 
+}
+
+.baic1 {
+   margin-top: -850px; 
+}
+
+
+.baic2 {
+   margin-left: 800px;
+}
+
+.baic3 {
+   margin-left:1100px;
+   margin-top: -750px; 
+}
+
+.baic img {
+   max-width: 60%; 
+}
+
+.baic1 img {
+   max-width: 60%; 
+}
+
+
+.baic2 img {
+   max-width: 100%; 
+}
+
+.top{
+margin-left: 190px;
+margin-top: 700px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 900;
+font-size: 120px;
+line-height: 100%;
+color: #000000;
+}
+
+.top1{
+   margin-left: 190px;
+   
+   font-family: 'Raleway';
+   font-style: normal;
+   font-weight: 900;
+   font-size: 120px;
+   line-height: 100%;
+   color: #ff0000;
+   }
+   .top2{
+      margin-left: 190px;
+      font-family: 'Raleway';
+      font-style: normal;
+      font-weight: 900;
+      font-size: 120px;
+      line-height: 100%;
+      color: #000000;
+      }
+
+
+
+
+.bai{
+   margin-left: 1000px;
+   margin-top: -350px;
+}
+
+.text{
+
+width: 500px;
+height: 204px;
+margin-left: 190px;
+margin-top: -50px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 140%;
+font-feature-settings: 'pnum' on, 'lnum' on;
+color: #000000;
+
+opacity: 0.5;
+
+}
+
+
+
+.lop{
+   margin-left: 190px;
+}
+
+
+.text1{
+
+
+width: 761px;
+height: 129px;
+margin-left: 839px;
+margin-top: -710px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 900;
+font-size: 36px;
+line-height: 120%;
+
+text-transform: uppercase;
+font-feature-settings: 'pnum' on, 'lnum' on;
+color: #000000;
+}
+
+
+.text2{
+
+width: 761px;
+height: 224px;
+margin-left: 839px;
+margin-top: 50px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 140%;
+
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+
+color: #000000;
+
+opacity: 0.5;
+
+}
+
+
+.fonar{
+   margin-left: 811px;
+   margin-top: 80px;
+}
+
+.fonar1{
+
+width: 761px;
+height: 129px;
+margin-left: 899px;
+margin-top: -60px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 500;
+font-size: 36px;
+line-height: 120%;
+font-feature-settings: 'pnum' on, 'lnum' on;
+color: #000000;
+
+
+}
+
+
+.fol{
+   margin-left: 190px;
+   margin-top: 300px;
+}
+
+.fol1{
+
+width: 760px;
+height: 118px;
+margin-left: 970px;
+margin-top: -470px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 900;
+font-size: 50px;
+line-height: 59px;
+text-transform: uppercase;
+font-feature-settings: 'pnum' on, 'lnum' on;
+color: #000000;
+}
+
+.fol2{
+   margin-left: 970px;
+   margin-top: 50px;
+}
+.fol3{
+   margin-left: 1100px;
+   margin-top: -20px;
+}
+.fol4{
+   margin-left: 1200px;
+   margin-top: -20px;
+}
+
+.rtc{
+   margin-top: 400px;
+   margin-left: 190px;
+}
+
+.rtc1{
+   margin-top: 100px;
+   margin-left: 190px;
+}
+
+.rtc2{
+   margin-top: -438px;
+   margin-left: 600px;
+}
+
+.rtc3{
+   margin-top: -487px;
+   margin-left: 950px;
+}
+.rtc4{
+   margin-top: -700px;
+   margin-left: 75%;
+}
+
+.rtc5{
+   margin-top: -150px;
+   margin-left: 700px;
+}
+
+.rtc6{
+   margin-top: -120px;
+   margin-left: 190px;
+}
+
+.kio{
+width: 303px;
+height: 59px;
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 900;
+font-size: 50px;
+line-height: 59px;
+text-transform: uppercase;
+font-feature-settings: 'pnum' on, 'lnum' on;
+color: #000000;
+flex: none;
+order: 0;
+flex-grow: 0;
+margin-left: 40%;
+margin-top: 200px;
+}
+
+.kio1{
+   margin-top: 50px;
+   margin-left: 240px;
+}
+.kio2{
+   margin-top: -21px;
+   margin-left: 540px;
+}
+
+.kio3{
+   margin-top: -21px;
+   margin-left: 890px;
+}
+.kio4{
+   margin-top: -21px;
+   margin-left: 1140px;
+}
+
+.kio5{
+   margin-top: -21px;
+   margin-left: 1350px;
+}
+
+.kio6{
+   margin-left: 160px;
+}
+
+
+.kio7{
+   margin-left: 760px;
+   margin-top: -580px;
+}
+.kio8{
+   margin-left: 1300px;
+   margin-top: -580px;
+}
+
+.git{
+   margin-top: 100px;
+   margin-left: 220px;
+}
+
+.git1{
+   margin-top: -30px;
+   margin-left: 520px;
+}
+.git2{
+   margin-top: -20px;
+   margin-left: 720px;
+}
+.git3{
+   margin-top: -20px;
+   margin-left: 1050px;
+}
+.git4{
+   margin-top: -20px;
+   margin-left: 1250px;
+}
+.git5{
+   margin-top: -18px;
+   margin-left: 1500px;
+}
